@@ -92,8 +92,8 @@ NotParx provides a dynamic interface that supports the goals of ParkPrescription
 
 ## Demo and Live Website
 
-The demo of NotParx is live and can be accessed at [NotParx Demo](https://c01notparx.netlify.app/). Please note that some features are limited due to resource constraints, and Azure-dependent functionalities are removed in this demo version.
-
+The demo of NotParx is live and can be accessed at [NotParx Demo-Live Website](https://c01notparx.netlify.app/). Please note that some features are limited due to resource constraints, and Azure-dependent functionalities are removed in this demo version.
+[Video Demo](https://www.youtube.com/watch?v=sij9cLY_qe0)
 ## Login Details for Demo Accounts
 
 Please use the following credentials to access the admin accounts:
