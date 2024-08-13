@@ -93,7 +93,7 @@ Prescriber and patient accounts can be created directly through the interface, s
 
 The architecture of NotParx is designed for scalability and performance. Below is a placeholder for the system architecture diagram:
 
-![System Architecture Diagram]("deliverable4/Updated Software Architecture Diagram.png")
+![System Architecture Diagram](deliverable4/Updated%20Software%20Architecture%20Diagram.png)
 
 ## Team Members
 
