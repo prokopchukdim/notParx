@@ -157,7 +157,7 @@ To run NotParx locally or in your environment, follow these steps:
 
 ## Contributing
 
-We welcome contributions! Please read our [contributing guide](CONTRIBUTING.md) to get started.
+This project is closed for any contributions at this stage. Please contact Alankrit Verma for any suggestions
 
 ## License
 
