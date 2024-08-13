@@ -1,5 +1,24 @@
 # NotParx
+## Contents
 
+- [Overview](#overview)
+  - [Purpose](#purpose)
+  - [How It Helps ParkPrescriptions.ca](#how-it-helps-parkprescriptionsca)
+- [Key Features](#key-features)
+  - [Admin View](#admin-view)
+  - [Patient and Prescriber Interaction](#patient-and-prescriber-interaction)
+  - [Green Resources](#green-resources)
+  - [Security and Permissions](#security-and-permissions)
+- [Technology Stack](#technology-stack)
+- [Demo and Live Website](#demo-and-live-website)
+- [Login Details for Demo Accounts](#login-details-for-demo-accounts)
+- [System Architecture](#system-architecture)
+- [Team Members](#team-members)
+- [Project Timeline and Development Practices](#project-timeline-and-development-practices)
+- [Installation and Setup](#installation-and-setup)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 ## Overview
 
 **NotParx** is a comprehensive solution designed to enhance the functionality of [ParkPrescriptions.ca](https://www.parkprescriptions.ca/). This project integrates data from over 10 Canadian medical databases in real-time, allowing healthcare professionals to issue park prescriptions efficiently. The platform is built with scalability, availability, and ease of use in mind, offering a seamless experience for both administrators and users.
