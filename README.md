@@ -18,6 +18,7 @@
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 ## Overview
+![image](https://github.com/user-attachments/assets/342dfbf5-5c2a-41d3-ba0e-05fcc1602ef3)
 
 **NotParx** is a prescription platform designed to enhance the functionality of [ParkPrescriptions.ca](https://www.parkprescriptions.ca/) and developed at the request of PaRx as part of the CSCC01 course at UTSC (Introduction to Software Engineering). This project interfaces with 10 Canadian medical databases in real-time, allowing healthcare professionals to issue park prescriptions efficiently. The platform is built with scalability, availability, and ease of use in mind, offering a seamless experience for both administrators and users.
 
