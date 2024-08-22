@@ -2,8 +2,8 @@
 ## Contents
 - [Overview](#overview)
   - [Purpose](#purpose)
-  - [Demo and Live Website](#demo-and-live-website)
   - [How It Helps ParkPrescriptions.ca](#how-it-helps-parkprescriptionsca)
+- [Demo and Live Website](#demo-and-live-website)
 - [Technology Stack](#technology-stack)
 - [System Architecture](#system-architecture)
 - [Key Features](#key-features)
